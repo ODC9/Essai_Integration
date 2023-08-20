@@ -1,7 +1,7 @@
 # Les tests de nos différentes fonctions
 
 # Importation de notre fichier 'fonction.py' contenant nos fonctions
-import fonction
+import fonctions
 
 # Tests pour l'Addition
 def test_addition():
